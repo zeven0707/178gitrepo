@@ -5,3 +5,4 @@ Git tracks changes.
 Git tracks changes version2.0
 Git add data to rollback all branch
 Creating a new branch is quick & simple.
+add a new branch dev
