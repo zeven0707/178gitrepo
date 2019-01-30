@@ -8,3 +8,4 @@ Creating a new branch is quick & simple.
 add a new branch dev
 restore the bug
 add tag v1.1
+add tag v1.2
