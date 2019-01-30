@@ -7,3 +7,4 @@ Git add data to rollback all branch
 Creating a new branch is quick & simple.
 add a new branch dev
 restore the bug
+add tag v1.1
